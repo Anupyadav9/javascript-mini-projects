@@ -1,6 +1,6 @@
 # JavaScript Mini Projects 🚀
 
-This repository contains **10 beginner-friendly JavaScript projects** built to strengthen core concepts like DOM manipulation, event handling, and problem-solving.
+This repository contains **12 beginner-friendly JavaScript projects** built to strengthen core concepts like DOM manipulation, event handling, and problem-solving.
 
 ## 🔧 Tech Stack
 - HTML5
@@ -16,7 +16,11 @@ This repository contains **10 beginner-friendly JavaScript projects** built to s
 5. Email Validation Form  
 6. Prime & Non-Prime Checker  
 7. Hide & Show Password  
-8. Counter Application  
+8. Counter Application
+9. palindrome checker
+10. unicode-character-value
+11. dicee-Challenge-game
+12. Drum-kit-game 
 
 ## 🎯 What I Learned
 - DOM manipulation using JavaScript
